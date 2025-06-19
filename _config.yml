@@ -98,11 +98,11 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/v2/D5603AQHBaT_e_j-QXA/profile-displayphoto-shrink_400_400/B56ZRWQSyoGoAg-/0/1736613899999?e=1755734400&v=beta&t=TFpn4ddM77xzyUaCSxloIbiqX52fhAGWwtyRUhGl1wo
+avatar: https://media.licdn.com/dms/image/v2/D5603AQHBaT_e_j-QXA/profile-displayphoto-shrink_100_100/B56ZRWQSyoGoAU-/0/1736613899982?e=1755734400&v=beta&t=g5ovQeeXl5eERpBhIskC2w580py5b_m9YhRduVQj030
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: https://media.licdn.com/dms/image/v2/D5603AQHBaT_e_j-QXA/profile-displayphoto-shrink_400_400/B56ZRWQSyoGoAg-/0/1736613899999?e=1755734400&v=beta&t=TFpn4ddM77xzyUaCSxloIbiqX52fhAGWwtyRUhGl1wo
+social_preview_image: https://media.licdn.com/dms/image/v2/D5603AQHBaT_e_j-QXA/profile-displayphoto-shrink_100_100/B56ZRWQSyoGoAU-/0/1736613899982?e=1755734400&v=beta&t=g5ovQeeXl5eERpBhIskC2w580py5b_m9YhRduVQj030
 # boolean type, the global switch for TOC in posts.
 toc: true
 
