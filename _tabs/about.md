@@ -4,14 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
----
-# the default layout is 'page'
-icon: fas fa-user
-order: 1
----
-
 ## Adarsh Madhusoodanan
 
 A passionate backend developer and tech community builder, known for crafting practical solutions using clean, efficient code. With a strong foundation in Python and web development, Adarsh is deeply interested in AI, ML, and backend engineering that powers scalable systems.
