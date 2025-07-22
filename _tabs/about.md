@@ -4,23 +4,37 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-## Adarsh Madhusoodanan
+## About Me
 
-A passionate backend developer and tech community builder, known for crafting practical solutions using clean, efficient code. With a strong foundation in Python and web development, Adarsh is deeply interested in AI, ML, and backend engineering that powers scalable systems.
+I'm Adarsh Madhusoodanan, a passionate and results-oriented developer with a strong foundation in **backend engineering** and a keen interest in **Artificial Intelligence**. I thrive on building practical, efficient solutions to real-world problems and have a proven track record of leading community initiatives and driving technical growth.
 
-### Professional Journey
-Adarsh's journey in tech includes hands-on experience in developing full-stack applications using frameworks like **FastAPI**, **Flask**, and **Django**, backed by robust databases like **PostgreSQL** and **MySQL**. He has contributed to impactful projects such as the **ToDo App with FastAPI**, featuring secure JWT authentication and RESTful APIs, and a **Fish Freshness Detection App**, which leverages machine learning to provide real-time classification through a web interface.
+My journey in tech is fueled by a simple philosophy: **learn by building**. Whether it's developing a full-stack application, diving into the latest AI models, or mentoring fellow students, my goal is to create a tangible impact.
 
-As the Campus Lead of **MuLearn CETKR**, he initiated the first campus chapter and built a thriving student community that promotes skill development and peer learning through challenges and projects. He also served as a **YIP intern at K-DISC**, coordinating innovation activities across 35 institutions and supporting over 2,000 students.
+---
 
-### Achievements and Contributions
-Adarsh's contributions go beyond coding. His leadership in MuLearn CETKR helped several students unlock career paths and grow technically through consistent peer-led learning.
+### My Journey & Experience
 
-He is an active GitHub contributor with hands-on projects like a ToDo App using FastAPI and an MCQ Generator powered by GPT APIs, reflecting his drive to build useful, real-world applications.
+I've had the opportunity to work on some exciting projects that have shaped my skills:
 
-Adarsh also actively participates in AI/ML-focused bootcamps and learning circles, and is currently focused on mastering DSA with Python, exploring RAG-based AI models, and expanding his frontend expertise with React and Next.js.
+-   **AI Engineering Intern at Sixtysixtech**: I'm currently building a sophisticated AI voice agent for US clients, diving deep into the world of interface-less technology.
+-   **MakeMyPass Development Team**: As part of this team, I helped build an AI-powered WhatsApp bot for seamless event registration, a project that taught me a great deal about creating user-centric solutions.
 
-### Vision and Impact
-Adarsh believes in the power of learning by building. Whether it's leading a community, shipping a product, or learning a new tech stack, his goal is simple: **grow, lead, and make an impact**. Through his work and leadership, he continues to inspire peers and contribute meaningfully to the tech ecosystem.
+I'm also proud of my work in building and leading the **MuLearn chapter at CETKR**, where I fostered a vibrant community of learners and helped my peers develop practical tech skills.
 
-For more about Adarsh and his work, visit his [GitHub](https://github.com/adarshmadhusoodanan), [LinkedIn](https://linkedin.com/in/adarshmadhusoodananp), and [portfolio website](https://adarshmadhusoodanan.tech).
+---
+
+### My Projects & Musings
+
+I believe in sharing knowledge and documenting my journey. Here are a few of my recent blog posts that you might find interesting:
+
+-   **[From WhatsApp Bots to Voice Agents: My Journey in Interface-less AI](/posts/my-journey-in-interface-less-ai/)**: A reflection on my experiences building for a screen-free future.
+-   **[Grades Aren't Everything: How to Build Real-World Skills in College](/posts/building-skills-beyond-the-classroom/)**: My take on the importance of practical skills and community learning.
+-   **[Building a Scalable WhatsApp AI Bot with FastAPI and PostgreSQL](/posts/building-a-scalable-whatsapp-ai-bot/)**: A technical deep-dive into the architecture and design of one of my favorite projects.
+
+You can find more of my work and a full list of my projects on my [GitHub profile](https://github.com/adarshmadhusoodanan).
+
+---
+
+### Let's Connect
+
+I'm always open to new opportunities and collaborations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adarshmadhusoodananp/) or reach out via email. Let's build something amazing together!
